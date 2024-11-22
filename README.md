@@ -9,14 +9,23 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+     style="height: 200px;" 
+     alt="GitHub Stats"
+/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmilaDeAlwis&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmilaDeAlwis&theme=tokyonight&hide_border=false" 
+     style="height: 200px;" 
+     alt="GitHub Streak Stats"
+/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
      style="height: 200px;" 
-     alt="Top Languages Stats">
+     alt="Top Languages Stats"
+/>
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmilaDeAlwis&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
