@@ -9,11 +9,11 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmilaDeAlwis&theme=tokyonight&hide_border=false" 
-     style="height: 150px; width= 150px;" 
+     style="height: 150px;" 
      alt="GitHub Streak Stats"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-     style="height: 150px; width= 150px;" 
+     style="height: 150px; width= 250px;" 
      alt="Top Languages Stats"
 />
 
