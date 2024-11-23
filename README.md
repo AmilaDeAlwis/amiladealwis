@@ -13,7 +13,7 @@
      alt="GitHub Streak Stats"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmilaDeAlwis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-     style="height: 150px; width= 250px;" 
+     style="height: 150px; width= 550px;" 
      alt="Top Languages Stats"
 />
 
